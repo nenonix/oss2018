@@ -25,7 +25,7 @@ Get a concensus on the actual TM project content structure website structure.
 
 ## What
 
-1. Explenation of the way of working for the website
+1. Explanation of the way of working for the website
 2. Review the proposed structure
 3. Start updating the website
 
