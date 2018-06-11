@@ -69,9 +69,8 @@ TLS
 - **S**
 1. The wrong server responds
 
-- **T**  	
-Client receives tampered data
-2.Compromised Server
+- **T**  Client receives tampered data
+2. Compromised Server
 3. Man in Middle
 4. Server receives tampered data
 
